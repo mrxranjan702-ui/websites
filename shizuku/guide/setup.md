@@ -1,6 +1,7 @@
 # User manual
 
 [[toc]]
+redmi A45g
 
 ## Start Shizuku
 
